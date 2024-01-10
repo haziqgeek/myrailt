@@ -1,6 +1,6 @@
 # myrailt
 
-A new Flutter project.
+A Flutter-based mobile application for transit users in Klang Valley to navigate to their destination using public transportation. The data is gathered from GTFS and GTFS-RT feed provided by Prasarana & KTMB in DOSM (https://developer.data.gov.my/realtime-api/gtfs-static). Created for transit users by a transit user.
 
 ## Getting Started
 
